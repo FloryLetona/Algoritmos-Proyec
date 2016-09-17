@@ -1,0 +1,9 @@
+E:\\VB\EcuacionesBooleanas\EcuacionesBooleanas\bin\Debug\EcuacionesBooleanas.exe
+E:\\VB\EcuacionesBooleanas\EcuacionesBooleanas\bin\Debug\EcuacionesBooleanas.pdb
+E:\\VB\EcuacionesBooleanas\EcuacionesBooleanas\bin\Debug\EcuacionesBooleanas.xml
+E:\\VB\EcuacionesBooleanas\EcuacionesBooleanas\obj\Debug\ResolveAssemblyReference.cache
+E:\\VB\EcuacionesBooleanas\EcuacionesBooleanas\obj\Debug\EcuacionesBooleanas.Resources.resources
+E:\\VB\EcuacionesBooleanas\EcuacionesBooleanas\obj\Debug\EcuacionesBooleanas.vbproj.GenerateResource.Cache
+E:\\VB\EcuacionesBooleanas\EcuacionesBooleanas\obj\Debug\EcuacionesBooleanas.exe
+E:\\VB\EcuacionesBooleanas\EcuacionesBooleanas\obj\Debug\EcuacionesBooleanas.xml
+E:\\VB\EcuacionesBooleanas\EcuacionesBooleanas\obj\Debug\EcuacionesBooleanas.pdb

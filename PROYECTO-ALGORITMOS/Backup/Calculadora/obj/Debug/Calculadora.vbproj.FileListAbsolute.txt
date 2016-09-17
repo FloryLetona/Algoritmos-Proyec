@@ -1,0 +1,9 @@
+C:\Users\Samuel\Desktop\Backup\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Samuel\Desktop\Backup\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Samuel\Desktop\Backup\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\Samuel\Desktop\Backup\Calculadora\obj\Debug\Calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\Backup\Calculadora\obj\Debug\Calculadora.Resources.resources
+C:\Users\Samuel\Desktop\Backup\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\Backup\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Samuel\Desktop\Backup\Calculadora\obj\Debug\Calculadora.xml
+C:\Users\Samuel\Desktop\Backup\Calculadora\obj\Debug\Calculadora.pdb

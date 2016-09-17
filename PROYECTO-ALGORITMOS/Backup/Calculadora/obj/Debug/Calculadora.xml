@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Calculadora
+</name>
+</assembly>
+<members>
+<member name="T:Calculadora.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Calculadora.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Calculadora.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Calculadora.Calculadora.Eval(System.String)">
+ <summary>Evalua una ecuacion matematica y la resuelve devolviendo su resultado, como una calculadora cientifica</summary>
+ <param name="operacion">Expresion matematica a resolver</param>
+ <remarks>Usa Expresiones Regulares :)</remarks>
+ <exception cref="T:System.FormatException">En caso de que no sea una expresion matematica valida arroja una excepcion</exception>
+</member>
+</members>
+</doc>
